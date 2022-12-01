@@ -1,5 +1,5 @@
 ### 墨鱼自用Web网站
-* 更新时间：2022-09-14
+* 更新时间：2022-12-01
 * 备份一些WebUrl
 * 备注带★为QX网页优化对象
 
@@ -10,7 +10,7 @@
 | LeZhu |   http://www.lezhutv.com/ |   群友投稿，很不错★ | 
 | 低端影视 |   http://ddys.tv | 影视老站，YYDS  | 
 | 剧迷 |   https://gimytv.net/ | 影视，小而美★  |
-| 厂长资源 |  https://www.qianoo.cn/ | 质量1080P★  | 
+| 厂长资源 |  https://www.czspp.com/ | 质量1080P★  | 
 | 天空影视 |  https://www.tkys.tv/ | 新起之秀★  | 
 | 大师兄 |  https://dsxys.com/ | 更新及时★  |
 | Zzzfun | http://www.zzzfun.com/ |  在线动漫，比较全面 |
