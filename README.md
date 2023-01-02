@@ -1,5 +1,5 @@
 ### 墨鱼自用Web网站
-* 更新时间：2022-12-01
+* 更新时间：2023-01-02
 * 备份一些WebUrl
 * 备注带★为QX网页优化对象
 
@@ -11,13 +11,12 @@
 | 低端影视 |   http://ddys.tv | 影视老站，YYDS  | 
 | 剧迷 |   https://gimytv.net/ | 影视，小而美★  |
 | 厂长资源 |  https://www.czspp.com/ | 质量1080P★  | 
-| 天空影视 |  https://www.tkys.tv/ | 新起之秀★  | 
+| 天空影视 |  https://tkznp.com/ | 新起之秀★  | 
 | 大师兄 |  https://dsxys.com/ | 更新及时★  |
 | Zzzfun | http://www.zzzfun.com/ |  在线动漫，比较全面 |
 | Ebb | https://ebb.io/ | 在线动漫，可备用 |
 | 独播库|  https://duboku.ru/ | 大同小异 |
 | NO视频 | https://www.novipnoad.com/ | 种类会多些 |
-| COKEMV | https://cokemv.me/ |  优质，体验蛮不错的★ |
 | 哔嘀影视 | https://www.btbdys.com/ |  大名鼎鼎 |
 | | | |
 | **名称** | **资源下载** | **备注** |
