@@ -36,7 +36,7 @@
 | 图片放大 |  http://waifu2x.udp.jp/ |  waifu |
 | | | |
 | **名称** | **尽享阅读** | **备注** |
-| 拷贝漫画 |  https://copymanga.com/ |  在线漫画，YYDS |
+| 拷贝漫画 |  https://copymanga.site/ |  在线漫画，YYDS |
 | 禁漫天堂|  https://18comic.org/ | 在线本子，18+韩漫★ |
 | 书香门第|  http://www.txtnovel.top/ |  小说在线阅读，下载 |
 | 知性教育 |  https://knowsex.net/ | 性教育 | 
