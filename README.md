@@ -1,11 +1,11 @@
 ### 墨鱼自用Web网站
-* 更新时间：2023-01-02
+* 更新时间：2023-02-06
 * 备份一些WebUrl
 * 备注带★为QX网页优化对象
 
 | 名称 | 影视网站 | 备注 |
 | :----- | :----- | :----- |
-| 真不卡 | https://www.ikandy.fun/ |  ★ |
+| 真不卡 | https://www.ikandy.fun/ |  墨鱼一直的自用★ |
 | Libvio |   https://www.libvio.me/ |   新站，更新及时★ | 
 | LeZhu |   http://www.lezhutv.com/ |   群友投稿，很不错★ | 
 | 低端影视 |   http://ddys.tv | 影视老站，YYDS  | 
