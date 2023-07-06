@@ -39,11 +39,11 @@
 | **名称** | **尽享阅读** | **备注** |
 | 拷贝漫画 |  https://copymanga.site/ |  在线漫画，YYDS |
 | 禁漫天堂|  https://18comic.org/ | 在线本子，18+韩漫★ |
-| 书香门第|  http://www.txtnovel.top/ |  小说在线阅读，下载 |
+| 书香门第|  ~~http://www.txtnovel.top/~~ |  小说在线阅读，下载 |
 | 知性教育 |  https://knowsex.net/ | 性教育 | 
 | PicAcg |  https://cnpica.xyz/page/ios-tip-simplified.php | 著名本子，懂得都懂 |
 | 奇漫屋 |  http://qiman56.com/ | 主流国漫 |
-| 92韩漫 | http://92hm.top/ | 快把眼睛闭上 | 
+| 92韩漫 | ~~http://92hm.top/~~ | 快把眼睛闭上 | 
 | 肉漫 |  https://rouman5.com/ | 字如其名 |
 | | | |
 | **名称** | **好孩子看不见** | **备注** |
