@@ -12,7 +12,7 @@
 | LeZhu |   http://www.lezhutv.com/ |   群友投稿，很不错★ | 
 | 低端影视 |   https://ddys.art/ | 影视老站，YYDS  | 
 | 剧迷 |   https://gimy.app/ | 影视，小而美★  |
-| 厂长资源 |  www.czzy.site | 质量1080P★  | 
+| 厂长资源 |  https://www.czzy.site/ | 质量1080P★  | 
 | Cokemv |  https://cokemv.me/ | 老站挺不错★  | 
 | Zzzfun | http://www.zzzfun.com/ |  在线动漫，比较全面 |
 | Ebb | https://ebb.io/ | 在线动漫，可备用 |
