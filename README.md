@@ -23,8 +23,8 @@
 | 磁力搜索|  https://xn--0tr952eyzisl5a.com/ | 猫和老鼠 |
 | 动漫花园 |  https://share.dmhy.org/ | 动漫下载 |
 | Nyaa |  https://nyaa.ink/ | 番剧著名站 |
-| 音乐下载|  https://www.sq688.com/singer/10001.html | 自用无损音乐下载 |
-| Z-library|  https://z-lib.org/ | 电子书下载，YYDS |
+| 音乐下载|  ~~https://www.sq688.com/singer/10001.html~~ | 自用无损音乐下载 |
+| Z-library|  ~~https://z-lib.org/~~ | 电子书下载，YYDS |
 | Wallhaven |  https://wallhaven.cc/ |  自用壁纸下载 |
 | 阿里小站   | https://newxiaozhan.com/t/video | 精心整理的阿里云盘资源 |
 | 音范丝 | https://www.yinfans.me/ | 原盘下载 |
